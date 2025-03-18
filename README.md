@@ -58,7 +58,7 @@ The following parameters can be adjusted in the code:
 
 ## Example Animation
 
-![Screenshot](screenshot.png)
+![Screenshot](images/screenshot.png)
 
 ## License
 Feel free to modify and improve this project as needed. If you encounter any issues or have suggestions, please open an issue in the repository or reach out to me directly. Enjoy the animated eyes!
