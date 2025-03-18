@@ -56,7 +56,7 @@ The following parameters can be adjusted in the code:
 6. **draw_face**: Updates and draws the entire face, including the eyes and mouth, checking for events like the "dead eyes" state.
 7. **blink_logic**: Controls the blinking animation logic, determining when the eyes open and close.
 
-## Example Animation
+## Example Screenshot
 
 ![Screenshot](images/screenshot.png)
 
